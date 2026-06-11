@@ -4,19 +4,19 @@
 
 ##  Visão Geral
 
-Projeto para a disciplina \*\*Gestão da Qualidade e Teste de Software\*\*.
+Projeto para a disciplina **Gestão da Qualidade e Teste de Software**.
 
-Objetivo: automatizar testes de interface na plataforma `saucedemo.com` usando \*\*Maestro\*\*.
+Objetivo: automatizar testes de interface na plataforma `saucedemo.com` usando **Maestro**.
 
 
 
 ##  Como executar os testes
 
-1\. Clone o repositório
+1. Clone o repositório
 
-2\. Certifique-se de ter o Maestro instalado
+2. Certifique-se de ter o Maestro instalado
 
-3\. Execute: `maestro test .maestro/`
+3. Execute: `maestro test .maestro/`
 
 
 
