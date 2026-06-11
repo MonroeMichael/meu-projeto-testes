@@ -1,0 +1,9 @@
+appId: https://www.saucedemo.com
+---
+- launchApp
+- tapOn: "Username"
+- inputText: "standard_user"
+- tapOn: "Password"
+- inputText: "secret_sauce"
+- tapOn: "Login"
+- assertVisible: "Products"
